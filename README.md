@@ -1,4 +1,4 @@
-# Investiga-o-de-Incidente
+# Investigacao-de-Incidente
 ## Investigação de Incidente — Initech Corp
 > TryHackMe | Network Security | Perimeter Logs Challenge  
 ---
