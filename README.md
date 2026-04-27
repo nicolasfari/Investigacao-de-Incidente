@@ -131,7 +131,6 @@ Confirmado pelo IDS:
 
     cat ids_alerts.log | grep "10.0.0.51" | tail
 <img width="1818" height="540" alt="image" src="https://github.com/user-attachments/assets/2b6a131c-648b-42a0-bd6b-a71363e79f43" />
-<img width="1898" height="506" alt="image" src="https://github.com/user-attachments/assets/e4880d72-b757-48a3-ba0c-5ec898db8dee" />
 
     ET INFO Possible HTTP POST Large Upload — Classification: Potential Data Exfiltration — Priority 2
 
